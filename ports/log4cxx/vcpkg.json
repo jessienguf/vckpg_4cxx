@@ -1,1 +1,6 @@
-
+{
+  "name": "log4cxx",
+  "version": "1.0.0",
+  "description": "A test for log4cxx",
+  "homepage": "https://github.com/apache/logging-log4cxx/tree/master"
+}
